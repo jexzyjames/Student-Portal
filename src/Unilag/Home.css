@@ -368,9 +368,9 @@ li:hover {
         overflow: scroll;
         overflow-y: scroll;
       }
-/*       .img {
-        display: block !important;
+      .img {
+        display: none;
         top: 10px;
         left: 2px;
-      } */
+      }
 }
