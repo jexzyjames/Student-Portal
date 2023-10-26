@@ -353,6 +353,9 @@ li:hover {
     text-align: left;
     position: relative;
     }
+  .grids{
+    height: 0px;
+  }
     .Courses {
         display: flex;
         margin-top: 20px;
